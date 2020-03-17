@@ -4,4 +4,4 @@ let divide = function() {
 
 let square = (num) => num **num
 
-let add = (num) => 
+let add = (num) => num + num
