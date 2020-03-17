@@ -1,4 +1,4 @@
 let divide = function() {}
 
-let square = (num, num2) => num * num2
+let square = (num) => num **num
 
